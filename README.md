@@ -1,5 +1,6 @@
-# yashasvibajpai.github.io
+# Live on anushkavohra.github.io
 
 
-# Major Revamp Initiation Commit.
-Cheers :)
+## Hello there! This is the code for my portfolio website.
+
+### Developed by Yashasvi Bajpai ©
